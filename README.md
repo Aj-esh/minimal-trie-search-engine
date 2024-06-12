@@ -1,2 +1,4 @@
 # Search-engine
-Search engine using trie algorithm
+Search engine using `trie` algorithm
+
+
