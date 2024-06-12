@@ -1,3 +1,5 @@
+## KMP algorithm
+
 ### Preprocessing the Pattern
 The algorithm preprocesses the pattern to create the LPS(longest prefix suffix) array. 
 The LPS array stores the length of the longest proper prefix of the pattern that is also a suffix. This helps in
