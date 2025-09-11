@@ -9,5 +9,3 @@ A trie, also known as a prefix tree, a tree-like data structure used for efficie
 
 KMP algorithm is an efficent method for comparing strings with sub-strings. It is particularly useful for finding all occurrences of a given pattern in a text. The KMP algorithm preprocesses the pattern and constructs an auxiliary array called the Longest Prefix Suffix (LPS) array, which is used to skip characters while matching.
 
-
-
